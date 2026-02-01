@@ -1,0 +1,8 @@
+
+{
+  "name": "Słówka Pol-Ang Pro",
+  "description": "A high-performance React application for learning Polish-English vocabulary with singleplayer and multiplayer modes using PeerJS and Gemini AI integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
